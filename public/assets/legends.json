@@ -1,0 +1,1724 @@
+{
+  "fetchedAt": "2026-10-05T09:09:14.764Z",
+  "legends": [
+    {
+      "cardId": "77b2953a-5214-4421-862d-f33d8bc4590b",
+      "name": "Kai'Sa, Daughter of the Void",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Kai'Sa"
+      ],
+      "colors": [
+        "Fury",
+        "Mind"
+      ],
+      "set": "OGN",
+      "setName": "Origins",
+      "number": "OGN-247",
+      "image": "/assets/legends/OGN-247.webp",
+      "overnumbered": [
+        {
+          "number": "OGN-299",
+          "image": "/assets/legends/OGN-299ov.webp"
+        },
+        {
+          "number": "OGN-299*",
+          "image": "/assets/legends/OGN-299ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "0518c241-d1ed-4e2a-b5c3-21b936d2a33f",
+      "name": "Volibear, Relentless Storm",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Volibear"
+      ],
+      "colors": [
+        "Body",
+        "Fury"
+      ],
+      "set": "OGN",
+      "setName": "Origins",
+      "number": "OGN-249",
+      "image": "/assets/legends/OGN-249.webp",
+      "overnumbered": [
+        {
+          "number": "OGN-300",
+          "image": "/assets/legends/OGN-300ov.webp"
+        },
+        {
+          "number": "OGN-300*",
+          "image": "/assets/legends/OGN-300ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "70ee0cd4-439a-4d00-8695-dd4c3d3aae65",
+      "name": "Jinx, Loose Cannon",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Jinx"
+      ],
+      "colors": [
+        "Fury",
+        "Chaos"
+      ],
+      "set": "OGN",
+      "setName": "Origins",
+      "number": "OGN-251",
+      "image": "/assets/legends/OGN-251.webp",
+      "overnumbered": [
+        {
+          "number": "OGN-301",
+          "image": "/assets/legends/OGN-301ov.webp"
+        },
+        {
+          "number": "OGN-301*",
+          "image": "/assets/legends/OGN-301ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "c8e10cc9-ceba-47aa-9a83-baea079780c0",
+      "name": "Darius, Hand of Noxus",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Darius"
+      ],
+      "colors": [
+        "Fury",
+        "Order"
+      ],
+      "set": "OGN",
+      "setName": "Origins",
+      "number": "OGN-253",
+      "image": "/assets/legends/OGN-253.webp",
+      "overnumbered": [
+        {
+          "number": "OGN-302",
+          "image": "/assets/legends/OGN-302ov.webp"
+        },
+        {
+          "number": "OGN-302*",
+          "image": "/assets/legends/OGN-302ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "5637b98c-a3dd-4dfa-b5b2-8c57c0051f86",
+      "name": "Ahri, Nine-Tailed Fox",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Ahri"
+      ],
+      "colors": [
+        "Calm",
+        "Mind"
+      ],
+      "set": "OGN",
+      "setName": "Origins",
+      "number": "OGN-255",
+      "image": "/assets/legends/OGN-255.webp",
+      "overnumbered": [
+        {
+          "number": "OGN-303",
+          "image": "/assets/legends/OGN-303ov.webp"
+        },
+        {
+          "number": "OGN-303*",
+          "image": "/assets/legends/OGN-303ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "e2b8bbf2-fc8f-4cf6-a9d2-b2793fd7bfa3",
+      "name": "Lee Sin, Blind Monk",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Lee Sin"
+      ],
+      "colors": [
+        "Body",
+        "Calm"
+      ],
+      "set": "OGN",
+      "setName": "Origins",
+      "number": "OGN-257",
+      "image": "/assets/legends/OGN-257.webp",
+      "overnumbered": [
+        {
+          "number": "OGN-304",
+          "image": "/assets/legends/OGN-304ov.webp"
+        },
+        {
+          "number": "OGN-304*",
+          "image": "/assets/legends/OGN-304ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "7364b9da-aaf2-4e01-9ec6-e1aa9b06ab12",
+      "name": "Yasuo, Unforgiven",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Yasuo"
+      ],
+      "colors": [
+        "Calm",
+        "Chaos"
+      ],
+      "set": "OGN",
+      "setName": "Origins",
+      "number": "OGN-259",
+      "image": "/assets/legends/OGN-259.webp",
+      "overnumbered": [
+        {
+          "number": "OGN-305",
+          "image": "/assets/legends/OGN-305ov.webp"
+        },
+        {
+          "number": "OGN-305*",
+          "image": "/assets/legends/OGN-305ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "8a167dd6-db7d-4a20-be61-d91e2cfd8a59",
+      "name": "Leona, Radiant Dawn",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Leona"
+      ],
+      "colors": [
+        "Calm",
+        "Order"
+      ],
+      "set": "OGN",
+      "setName": "Origins",
+      "number": "OGN-261",
+      "image": "/assets/legends/OGN-261.webp",
+      "overnumbered": [
+        {
+          "number": "OGN-306",
+          "image": "/assets/legends/OGN-306ov.webp"
+        },
+        {
+          "number": "OGN-306*",
+          "image": "/assets/legends/OGN-306ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "00bcedde-530a-4a26-85e7-9b8c45ff6a62",
+      "name": "Teemo, Swift Scout",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Teemo"
+      ],
+      "colors": [
+        "Mind",
+        "Chaos"
+      ],
+      "set": "OGN",
+      "setName": "Origins",
+      "number": "OGN-263",
+      "image": "/assets/legends/OGN-263.webp",
+      "overnumbered": [
+        {
+          "number": "OGN-307",
+          "image": "/assets/legends/OGN-307ov.webp"
+        },
+        {
+          "number": "OGN-307*",
+          "image": "/assets/legends/OGN-307ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "a9b7f199-a31b-4f94-9b17-7cf640d5853a",
+      "name": "Viktor, Herald of the Arcane",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Viktor"
+      ],
+      "colors": [
+        "Order",
+        "Mind"
+      ],
+      "set": "OGN",
+      "setName": "Origins",
+      "number": "OGN-265",
+      "image": "/assets/legends/OGN-265.webp",
+      "overnumbered": [
+        {
+          "number": "OGN-308",
+          "image": "/assets/legends/OGN-308ov.webp"
+        },
+        {
+          "number": "OGN-308*",
+          "image": "/assets/legends/OGN-308ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "919ae049-0778-4f7a-853e-fd162dc8a224",
+      "name": "Miss Fortune, Bounty Hunter",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Miss Fortune"
+      ],
+      "colors": [
+        "Body",
+        "Chaos"
+      ],
+      "set": "OGN",
+      "setName": "Origins",
+      "number": "OGN-267",
+      "image": "/assets/legends/OGN-267.webp",
+      "overnumbered": [
+        {
+          "number": "OGN-309",
+          "image": "/assets/legends/OGN-309ov.webp"
+        },
+        {
+          "number": "OGN-309*",
+          "image": "/assets/legends/OGN-309ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "e827f607-e986-4c68-80b3-9b167b253e71",
+      "name": "Sett, The Boss",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Sett"
+      ],
+      "colors": [
+        "Body",
+        "Order"
+      ],
+      "set": "OGN",
+      "setName": "Origins",
+      "number": "OGN-269",
+      "image": "/assets/legends/OGN-269.webp",
+      "overnumbered": [
+        {
+          "number": "OGN-310",
+          "image": "/assets/legends/OGN-310ov.webp"
+        },
+        {
+          "number": "OGN-310*",
+          "image": "/assets/legends/OGN-310ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "254141aa-d667-49b9-bd1c-559f6b4ee246",
+      "name": "Annie, Dark Child",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Annie"
+      ],
+      "colors": [
+        "Fury",
+        "Chaos"
+      ],
+      "set": "OGS",
+      "setName": "Proving Grounds",
+      "number": "OGS-017",
+      "image": "/assets/legends/OGS-017.webp",
+      "overnumbered": []
+    },
+    {
+      "cardId": "b975c54c-20cc-45e9-a4ef-2d9f7ec10d42",
+      "name": "Master Yi, Wuju Bladesman",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Master Yi"
+      ],
+      "colors": [
+        "Body",
+        "Calm"
+      ],
+      "set": "OGS",
+      "setName": "Proving Grounds",
+      "number": "OGS-019",
+      "image": "/assets/legends/OGS-019.webp",
+      "overnumbered": []
+    },
+    {
+      "cardId": "74c9bc91-54fe-465e-b015-5460393ae671",
+      "name": "Lux, Lady of Luminosity",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Lux"
+      ],
+      "colors": [
+        "Order",
+        "Mind"
+      ],
+      "set": "OGS",
+      "setName": "Proving Grounds",
+      "number": "OGS-021",
+      "image": "/assets/legends/OGS-021.webp",
+      "overnumbered": []
+    },
+    {
+      "cardId": "3e46feb4-e70b-44dd-b084-47b5f18c1f21",
+      "name": "Garen, Might of Demacia",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Garen"
+      ],
+      "colors": [
+        "Body",
+        "Order"
+      ],
+      "set": "OGS",
+      "setName": "Proving Grounds",
+      "number": "OGS-023",
+      "image": "/assets/legends/OGS-023.webp",
+      "overnumbered": []
+    },
+    {
+      "cardId": "f73b6714-ad91-4634-b92e-2e2d590b7c12",
+      "name": "Ekko, Boy Who Shattered Time",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Ekko"
+      ],
+      "colors": [
+        "Fury",
+        "Mind"
+      ],
+      "set": "RAD",
+      "setName": "Radiance",
+      "number": "RAD-139",
+      "image": "/assets/legends/RAD-139.webp",
+      "overnumbered": []
+    },
+    {
+      "cardId": "bb1e8d46-7f43-48da-9f2d-1460a2350f1e",
+      "name": "Ziggs, Hexplosives Expert",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Ziggs"
+      ],
+      "colors": [
+        "Fury",
+        "Chaos"
+      ],
+      "set": "RAD",
+      "setName": "Radiance",
+      "number": "RAD-141",
+      "image": "/assets/legends/RAD-141.webp",
+      "overnumbered": [
+        {
+          "number": "RAD-169",
+          "image": "/assets/legends/RAD-169ov.webp"
+        },
+        {
+          "number": "RAD-169*",
+          "image": "/assets/legends/RAD-169ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "dce528be-e21d-46ee-820e-73205b64db29",
+      "name": "Mordekaiser, Iron Revenant",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Mordekaiser"
+      ],
+      "colors": [
+        "Fury",
+        "Order"
+      ],
+      "set": "RAD",
+      "setName": "Radiance",
+      "number": "RAD-143",
+      "image": "/assets/legends/RAD-143.webp",
+      "overnumbered": [
+        {
+          "number": "RAD-170",
+          "image": "/assets/legends/RAD-170ov.webp"
+        },
+        {
+          "number": "RAD-170*",
+          "image": "/assets/legends/RAD-170ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "25c57eb7-031d-4327-ae06-7a094185cb9a",
+      "name": "Orianna, Lady of Clockwork",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Orianna"
+      ],
+      "colors": [
+        "Calm",
+        "Mind"
+      ],
+      "set": "RAD",
+      "setName": "Radiance",
+      "number": "RAD-145",
+      "image": "/assets/legends/RAD-145.webp",
+      "overnumbered": [
+        {
+          "number": "RAD-171",
+          "image": "/assets/legends/RAD-171ov.webp"
+        },
+        {
+          "number": "RAD-171*",
+          "image": "/assets/legends/RAD-171ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "461d6de8-928f-474b-9aaf-fa3c2913d95b",
+      "name": "K'Sante Pride of Nazumah",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "K'Sante"
+      ],
+      "colors": [
+        "Body",
+        "Calm"
+      ],
+      "set": "RAD",
+      "setName": "Radiance",
+      "number": "RAD-147",
+      "image": "/assets/legends/RAD-147.webp",
+      "overnumbered": [
+        {
+          "number": "RAD-172",
+          "image": "/assets/legends/RAD-172ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "ddf9a90d-9449-4e91-8d7b-ae9226975e88",
+      "name": "Seraphine, Starry-Eyed Songstress",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Seraphine"
+      ],
+      "colors": [
+        "Order",
+        "Mind"
+      ],
+      "set": "RAD",
+      "setName": "Radiance",
+      "number": "RAD-151",
+      "image": "/assets/legends/RAD-151.webp",
+      "overnumbered": [
+        {
+          "number": "RAD-174",
+          "image": "/assets/legends/RAD-174ov.webp"
+        },
+        {
+          "number": "RAD-174*",
+          "image": "/assets/legends/RAD-174ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "eae39148-f564-484e-b57a-ce7d6646a3a2",
+      "name": "Evelynn, Agony's Embrace",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Evelynn"
+      ],
+      "colors": [
+        "Body",
+        "Chaos"
+      ],
+      "set": "RAD",
+      "setName": "Radiance",
+      "number": "RAD-153",
+      "image": "/assets/legends/RAD-153.webp",
+      "overnumbered": [
+        {
+          "number": "RAD-175",
+          "image": "/assets/legends/RAD-175ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "b7fb5704-3fce-4c8c-a4d6-2b038a028dba",
+      "name": "Jarvan IV, Exemplar of Demacia",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Jarvan IV"
+      ],
+      "colors": [
+        "Body",
+        "Order"
+      ],
+      "set": "RAD",
+      "setName": "Radiance",
+      "number": "RAD-155",
+      "image": "/assets/legends/RAD-155.webp",
+      "overnumbered": [
+        {
+          "number": "RAD-176",
+          "image": "/assets/legends/RAD-176ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "f23a3d0d-c8fe-46fe-8df3-c9077327ef85",
+      "name": "Rumble, Mechanized Menace",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Rumble"
+      ],
+      "colors": [
+        "Fury",
+        "Mind"
+      ],
+      "set": "SFD",
+      "setName": "Spiritforged",
+      "number": "SFD-181",
+      "image": "/assets/legends/SFD-181.webp",
+      "overnumbered": [
+        {
+          "number": "SFD-240",
+          "image": "/assets/legends/SFD-240ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "bb53ad01-d984-4b65-9ed3-018999f8d24c",
+      "name": "Lucian, Purifier",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Lucian"
+      ],
+      "colors": [
+        "Body",
+        "Fury"
+      ],
+      "set": "SFD",
+      "setName": "Spiritforged",
+      "number": "SFD-183",
+      "image": "/assets/legends/SFD-183.webp",
+      "overnumbered": [
+        {
+          "number": "SFD-241",
+          "image": "/assets/legends/SFD-241ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "c0d12ee4-0dd1-4297-b99b-971fe295b5d1",
+      "name": "Draven, Glorious Executioner",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Draven"
+      ],
+      "colors": [
+        "Fury",
+        "Chaos"
+      ],
+      "set": "SFD",
+      "setName": "Spiritforged",
+      "number": "SFD-185",
+      "image": "/assets/legends/SFD-185.webp",
+      "overnumbered": [
+        {
+          "number": "SFD-242",
+          "image": "/assets/legends/SFD-242ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "105f34bc-e1f1-478c-8f03-21ad849a807b",
+      "name": "Rek'Sai, Void Burrower",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Rek'Sai"
+      ],
+      "colors": [
+        "Fury",
+        "Order"
+      ],
+      "set": "SFD",
+      "setName": "Spiritforged",
+      "number": "SFD-187",
+      "image": "/assets/legends/SFD-187.webp",
+      "overnumbered": [
+        {
+          "number": "SFD-243",
+          "image": "/assets/legends/SFD-243ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "c9d7a165-fa6e-4f51-b954-474a0d674ae6",
+      "name": "Ornn, Fire Below the Mountain",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Ornn"
+      ],
+      "colors": [
+        "Calm",
+        "Mind"
+      ],
+      "set": "SFD",
+      "setName": "Spiritforged",
+      "number": "SFD-189",
+      "image": "/assets/legends/SFD-189.webp",
+      "overnumbered": [
+        {
+          "number": "SFD-244",
+          "image": "/assets/legends/SFD-244ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "d1d2edc4-cfc2-4c9f-bb07-49ca35ab3082",
+      "name": "Jax, Grandmaster at Arms",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Jax"
+      ],
+      "colors": [
+        "Body",
+        "Calm"
+      ],
+      "set": "SFD",
+      "setName": "Spiritforged",
+      "number": "SFD-193",
+      "image": "/assets/legends/SFD-193.webp",
+      "overnumbered": [
+        {
+          "number": "SFD-245",
+          "image": "/assets/legends/SFD-245ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "4f2c62f6-6859-4ee9-9e17-cbc52a19f692",
+      "name": "Irelia, Blade Dancer",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Irelia"
+      ],
+      "colors": [
+        "Calm",
+        "Chaos"
+      ],
+      "set": "SFD",
+      "setName": "Spiritforged",
+      "number": "SFD-195",
+      "image": "/assets/legends/SFD-195.webp",
+      "overnumbered": [
+        {
+          "number": "SFD-246",
+          "image": "/assets/legends/SFD-246ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "28299956-0f42-4221-93c6-428e14aef235",
+      "name": "Azir, Emperor of the Sands",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Azir"
+      ],
+      "colors": [
+        "Calm",
+        "Order"
+      ],
+      "set": "SFD",
+      "setName": "Spiritforged",
+      "number": "SFD-197",
+      "image": "/assets/legends/SFD-197.webp",
+      "overnumbered": [
+        {
+          "number": "SFD-247",
+          "image": "/assets/legends/SFD-247ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "e4dfdf06-7a30-4846-b3e1-aaa8f65a45d9",
+      "name": "Ezreal, Prodigal Explorer",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Ezreal"
+      ],
+      "colors": [
+        "Mind",
+        "Chaos"
+      ],
+      "set": "SFD",
+      "setName": "Spiritforged",
+      "number": "SFD-199",
+      "image": "/assets/legends/SFD-199.webp",
+      "overnumbered": [
+        {
+          "number": "SFD-248",
+          "image": "/assets/legends/SFD-248ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "80c98442-424d-4688-b65a-d6071bf1c78b",
+      "name": "Renata Glasc, Chem-Baroness",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Renata Glasc"
+      ],
+      "colors": [
+        "Order",
+        "Mind"
+      ],
+      "set": "SFD",
+      "setName": "Spiritforged",
+      "number": "SFD-201",
+      "image": "/assets/legends/SFD-201.webp",
+      "overnumbered": [
+        {
+          "number": "SFD-249",
+          "image": "/assets/legends/SFD-249ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "a378da80-7bda-4bd3-9a77-93dfd3ab4e48",
+      "name": "Sivir, Battle Mistress",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Sivir"
+      ],
+      "colors": [
+        "Body",
+        "Chaos"
+      ],
+      "set": "SFD",
+      "setName": "Spiritforged",
+      "number": "SFD-203",
+      "image": "/assets/legends/SFD-203.webp",
+      "overnumbered": [
+        {
+          "number": "SFD-250",
+          "image": "/assets/legends/SFD-250ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "47b35f92-55e3-4651-95fb-7248855d78e7",
+      "name": "Fiora, Grand Duelist",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Fiora"
+      ],
+      "colors": [
+        "Body",
+        "Order"
+      ],
+      "set": "SFD",
+      "setName": "Spiritforged",
+      "number": "SFD-205",
+      "image": "/assets/legends/SFD-205.webp",
+      "overnumbered": [
+        {
+          "number": "SFD-251",
+          "image": "/assets/legends/SFD-251ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "a54f40bc-6f61-4308-8cc6-47f78ccb8a4f",
+      "name": "Jhin, Virtuoso",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Jhin"
+      ],
+      "colors": [
+        "Fury",
+        "Mind"
+      ],
+      "set": "UNL",
+      "setName": "Unleashed",
+      "number": "UNL-181",
+      "image": "/assets/legends/UNL-181.webp",
+      "overnumbered": [
+        {
+          "number": "UNL-226",
+          "image": "/assets/legends/UNL-226ov.webp"
+        },
+        {
+          "number": "UNL-226*",
+          "image": "/assets/legends/UNL-226ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "b103d55c-8e2c-4811-bdea-be7dcbb506b0",
+      "name": "Rengar, Pridestalker",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Rengar"
+      ],
+      "colors": [
+        "Body",
+        "Fury"
+      ],
+      "set": "UNL",
+      "setName": "Unleashed",
+      "number": "UNL-183",
+      "image": "/assets/legends/UNL-183.webp",
+      "overnumbered": [
+        {
+          "number": "UNL-227",
+          "image": "/assets/legends/UNL-227ov.webp"
+        },
+        {
+          "number": "UNL-227*",
+          "image": "/assets/legends/UNL-227ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "c6b58c86-c4be-4351-83ba-0d7d86ca2422",
+      "name": "Pyke, Bloodharbor Ripper",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Pyke"
+      ],
+      "colors": [
+        "Fury",
+        "Chaos"
+      ],
+      "set": "UNL",
+      "setName": "Unleashed",
+      "number": "UNL-185",
+      "image": "/assets/legends/UNL-185.webp",
+      "overnumbered": [
+        {
+          "number": "UNL-228",
+          "image": "/assets/legends/UNL-228ov.webp"
+        },
+        {
+          "number": "UNL-228*",
+          "image": "/assets/legends/UNL-228ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "9586cdd4-f2a8-4672-97f8-2906c4f3f086",
+      "name": "Vi, Piltover Enforcer",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Vi"
+      ],
+      "colors": [
+        "Fury",
+        "Order"
+      ],
+      "set": "UNL",
+      "setName": "Unleashed",
+      "number": "UNL-187",
+      "image": "/assets/legends/UNL-187.webp",
+      "overnumbered": [
+        {
+          "number": "UNL-229",
+          "image": "/assets/legends/UNL-229ov.webp"
+        },
+        {
+          "number": "UNL-229*",
+          "image": "/assets/legends/UNL-229ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "e62bc147-819f-4ec9-9df4-a0bf7960ffca",
+      "name": "Lillia, Bashful Bloom",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Lillia"
+      ],
+      "colors": [
+        "Calm",
+        "Mind"
+      ],
+      "set": "UNL",
+      "setName": "Unleashed",
+      "number": "UNL-189",
+      "image": "/assets/legends/UNL-189.webp",
+      "overnumbered": [
+        {
+          "number": "UNL-230",
+          "image": "/assets/legends/UNL-230ov.webp"
+        },
+        {
+          "number": "UNL-230*",
+          "image": "/assets/legends/UNL-230ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "279828a6-c44c-476e-bd1e-057a9969dabb",
+      "name": "Master Yi, Wuju Master",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Master Yi"
+      ],
+      "colors": [
+        "Body",
+        "Calm"
+      ],
+      "set": "UNL",
+      "setName": "Unleashed",
+      "number": "UNL-191",
+      "image": "/assets/legends/UNL-191.webp",
+      "overnumbered": [
+        {
+          "number": "UNL-231",
+          "image": "/assets/legends/UNL-231ov.webp"
+        },
+        {
+          "number": "UNL-231*",
+          "image": "/assets/legends/UNL-231ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "36e91a0c-088c-4222-89c0-5b7c64dcfc43",
+      "name": "Vex, Gloomist",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Vex"
+      ],
+      "colors": [
+        "Calm",
+        "Chaos"
+      ],
+      "set": "UNL",
+      "setName": "Unleashed",
+      "number": "UNL-193",
+      "image": "/assets/legends/UNL-193.webp",
+      "overnumbered": [
+        {
+          "number": "UNL-232",
+          "image": "/assets/legends/UNL-232ov.webp"
+        },
+        {
+          "number": "UNL-232*",
+          "image": "/assets/legends/UNL-232ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "8c45aa6f-0475-403b-9b4a-846779f3454b",
+      "name": "Ivern, Green Father",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Ivern"
+      ],
+      "colors": [
+        "Calm",
+        "Order"
+      ],
+      "set": "UNL",
+      "setName": "Unleashed",
+      "number": "UNL-195",
+      "image": "/assets/legends/UNL-195.webp",
+      "overnumbered": [
+        {
+          "number": "UNL-233",
+          "image": "/assets/legends/UNL-233ov.webp"
+        },
+        {
+          "number": "UNL-233*",
+          "image": "/assets/legends/UNL-233ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "3fdea3a0-2265-480d-9c26-bb7ce08f6cb5",
+      "name": "Diana, Scorn of the Moon",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Diana"
+      ],
+      "colors": [
+        "Mind",
+        "Chaos"
+      ],
+      "set": "UNL",
+      "setName": "Unleashed",
+      "number": "UNL-197",
+      "image": "/assets/legends/UNL-197.webp",
+      "overnumbered": [
+        {
+          "number": "UNL-234",
+          "image": "/assets/legends/UNL-234ov.webp"
+        },
+        {
+          "number": "UNL-234*",
+          "image": "/assets/legends/UNL-234ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "b972c8a5-df69-42a3-8608-3ca00bf25d68",
+      "name": "LeBlanc, Deceiver",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "LeBlanc"
+      ],
+      "colors": [
+        "Order",
+        "Mind"
+      ],
+      "set": "UNL",
+      "setName": "Unleashed",
+      "number": "UNL-199",
+      "image": "/assets/legends/UNL-199.webp",
+      "overnumbered": [
+        {
+          "number": "UNL-235",
+          "image": "/assets/legends/UNL-235ov.webp"
+        },
+        {
+          "number": "UNL-235*",
+          "image": "/assets/legends/UNL-235ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "d7b310e5-6ff3-4568-ac31-b4402ea865aa",
+      "name": "Kha'Zix, Voidreaver",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Kha'Zix"
+      ],
+      "colors": [
+        "Body",
+        "Chaos"
+      ],
+      "set": "UNL",
+      "setName": "Unleashed",
+      "number": "UNL-201",
+      "image": "/assets/legends/UNL-201.webp",
+      "overnumbered": [
+        {
+          "number": "UNL-236",
+          "image": "/assets/legends/UNL-236ov.webp"
+        },
+        {
+          "number": "UNL-236*",
+          "image": "/assets/legends/UNL-236ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "fb945236-1cf9-439b-bd4b-0d6b7e54fe2f",
+      "name": "Poppy, Keeper of the Hammer",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Poppy"
+      ],
+      "colors": [
+        "Body",
+        "Order"
+      ],
+      "set": "UNL",
+      "setName": "Unleashed",
+      "number": "UNL-203",
+      "image": "/assets/legends/UNL-203.webp",
+      "overnumbered": [
+        {
+          "number": "UNL-237",
+          "image": "/assets/legends/UNL-237ov.webp"
+        },
+        {
+          "number": "UNL-237*",
+          "image": "/assets/legends/UNL-237ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "0f1320d8-f83a-48ee-9b63-6374f398791c",
+      "name": "Akali, Rogue Assassin",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Akali"
+      ],
+      "colors": [
+        "Fury",
+        "Calm"
+      ],
+      "set": "VEN",
+      "setName": "Vendetta",
+      "number": "VEN-139",
+      "image": "/assets/legends/VEN-139.webp",
+      "overnumbered": [
+        {
+          "number": "VEN-189",
+          "image": "/assets/legends/VEN-189ov.webp"
+        },
+        {
+          "number": "VEN-189*",
+          "image": "/assets/legends/VEN-189ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "76c1bb8a-4b87-4a21-a0ef-1d3cd71a9d24",
+      "name": "Renekton, Butcher of the Sands",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Renekton"
+      ],
+      "colors": [
+        "Body",
+        "Fury"
+      ],
+      "set": "VEN",
+      "setName": "Vendetta",
+      "number": "VEN-141",
+      "image": "/assets/legends/VEN-141.webp",
+      "overnumbered": [
+        {
+          "number": "VEN-190",
+          "image": "/assets/legends/VEN-190ov.webp"
+        },
+        {
+          "number": "VEN-190*",
+          "image": "/assets/legends/VEN-190ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "bde7c652-ee06-4e02-81ab-0f2457d33fbe",
+      "name": "Zed, Master of Shadows",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Zed"
+      ],
+      "colors": [
+        "Fury",
+        "Chaos"
+      ],
+      "set": "VEN",
+      "setName": "Vendetta",
+      "number": "VEN-143",
+      "image": "/assets/legends/VEN-143.webp",
+      "overnumbered": [
+        {
+          "number": "VEN-191",
+          "image": "/assets/legends/VEN-191ov.webp"
+        },
+        {
+          "number": "VEN-191*",
+          "image": "/assets/legends/VEN-191ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "f87fda32-8086-4813-84dc-2c1fad0646f3",
+      "name": "Nasus, Curator of the Sands",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Nasus"
+      ],
+      "colors": [
+        "Calm",
+        "Mind"
+      ],
+      "set": "VEN",
+      "setName": "Vendetta",
+      "number": "VEN-145",
+      "image": "/assets/legends/VEN-145.webp",
+      "overnumbered": [
+        {
+          "number": "VEN-192",
+          "image": "/assets/legends/VEN-192ov.webp"
+        },
+        {
+          "number": "VEN-192*",
+          "image": "/assets/legends/VEN-192ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "bf98ae00-aa8e-4c11-a209-22ed8b451243",
+      "name": "Shen, Eye of Twilight",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Shen"
+      ],
+      "colors": [
+        "Calm",
+        "Order"
+      ],
+      "set": "VEN",
+      "setName": "Vendetta",
+      "number": "VEN-147",
+      "image": "/assets/legends/VEN-147.webp",
+      "overnumbered": [
+        {
+          "number": "VEN-193",
+          "image": "/assets/legends/VEN-193ov.webp"
+        },
+        {
+          "number": "VEN-193*",
+          "image": "/assets/legends/VEN-193ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "54d5e019-97b3-4260-991e-540ead0aa236",
+      "name": "Jayce, Defender of Tomorrow",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Jayce"
+      ],
+      "colors": [
+        "Body",
+        "Mind"
+      ],
+      "set": "VEN",
+      "setName": "Vendetta",
+      "number": "VEN-149",
+      "image": "/assets/legends/VEN-149.webp",
+      "overnumbered": [
+        {
+          "number": "VEN-194",
+          "image": "/assets/legends/VEN-194ov.webp"
+        },
+        {
+          "number": "VEN-194*",
+          "image": "/assets/legends/VEN-194ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "4a1e6851-f12e-4bb0-acad-8831fd15746a",
+      "name": "Mel, Soul's Reflection",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Mel"
+      ],
+      "colors": [
+        "Mind",
+        "Chaos"
+      ],
+      "set": "VEN",
+      "setName": "Vendetta",
+      "number": "VEN-151",
+      "image": "/assets/legends/VEN-151.webp",
+      "overnumbered": [
+        {
+          "number": "VEN-195",
+          "image": "/assets/legends/VEN-195ov.webp"
+        },
+        {
+          "number": "VEN-195*",
+          "image": "/assets/legends/VEN-195ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "15be51b9-5031-46d9-8173-748e0a53101c",
+      "name": "Ambessa, Matriarch of War",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Ambessa"
+      ],
+      "colors": [
+        "Body",
+        "Order"
+      ],
+      "set": "VEN",
+      "setName": "Vendetta",
+      "number": "VEN-153",
+      "image": "/assets/legends/VEN-153.webp",
+      "overnumbered": [
+        {
+          "number": "VEN-196",
+          "image": "/assets/legends/VEN-196ov.webp"
+        },
+        {
+          "number": "VEN-196*",
+          "image": "/assets/legends/VEN-196ov.webp"
+        }
+      ]
+    },
+    {
+      "cardId": "74c4fe45-2ce3-4330-8ac4-12087420ef45",
+      "name": "Kennen, Heart of the Tempest",
+      "champion": false,
+      "types": [
+        "Legend"
+      ],
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "tags": [
+        "Kennen"
+      ],
+      "colors": [
+        "Order",
+        "Chaos"
+      ],
+      "set": "VEN",
+      "setName": "Vendetta",
+      "number": "VEN-155",
+      "image": "/assets/legends/VEN-155.webp",
+      "overnumbered": [
+        {
+          "number": "VEN-197",
+          "image": "/assets/legends/VEN-197ov.webp"
+        },
+        {
+          "number": "VEN-197*",
+          "image": "/assets/legends/VEN-197ov.webp"
+        }
+      ]
+    }
+  ]
+}
